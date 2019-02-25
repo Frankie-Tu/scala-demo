@@ -1,7 +1,7 @@
 package com.frankie.app
 
 object HelloWorld{
-  // Same to public static void main in Java
+  // Similar to public static void main in Java
   def main(args:Array[String]): Unit ={
     println("Hello World")
   }
