@@ -7,7 +7,7 @@ object HelloWorld{
   }
 }
 
-// Another way
+// Another way, extends App
 object HelloWorld2 extends App {
   println("Hello World 2")
 }
