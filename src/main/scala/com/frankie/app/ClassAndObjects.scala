@@ -34,11 +34,11 @@ class MethodOverloadingExample {
   def printOut (x: String): String = {
     s"printOut Method with one argument $x"
   }
-  // overloading 1
+  // method overloading 1
   def printOut(x: Int): String ={
     s"printOut Method with one Integer argument $x"
   }
-  // overloading 2
+  // method overloading 2
   def printOut (x: String, y: String): String ={
     s"printOut Method with two arguments $x & $y"
   }
