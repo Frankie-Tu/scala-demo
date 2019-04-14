@@ -12,7 +12,7 @@ Collections, Traits, Regex, Exception Handling, File I/O
 - [x] **Encapsulation**, *MiniBank* example
 - [x] **Inheritance**, *ClassAndObjects* example
 - [x] **Polymorphism**, *ClassAndObjects* example: method overloading & overriding
-- [ ] **Abstraction**
+- [x] **Abstraction**, *ClassAndObjects* example
 
 ### Others:
 - [x] **Data Types**, *basics/DataTypes* example

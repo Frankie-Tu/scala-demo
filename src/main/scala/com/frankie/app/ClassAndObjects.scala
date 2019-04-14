@@ -44,6 +44,20 @@ class MethodOverloadingExample {
   }
 }
 
+// abstract class
+abstract class AbstractHuman {
+  val name: String
+  def tellMeAboutYourself ()
+}
+
+class AbstractMan (nm: String) extends AbstractHuman {
+  val name:String = nm
+  //implementation
+  override def tellMeAboutYourself(): Unit = {
+    println(s"my name is $name")
+  }
+}
+
 object ClassAndObjects {
   def main(args: Array[String]): Unit = {
     println(new Human(168, 60).speak)
@@ -53,5 +67,6 @@ object ClassAndObjects {
     println(myMethodOverloading.printOut("arg1"))
     println(myMethodOverloading.printOut(1))
     println(myMethodOverloading.printOut("arg1", "arg2"))
+    new AbstractMan("Frankie").tellMeAboutYourself()
   }
 }
