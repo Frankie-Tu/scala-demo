@@ -1,4 +1,4 @@
-package com.frankie.app
+package com.frankie.app.basics
 
 class Variables {
   // mutable, re-assignment allowed

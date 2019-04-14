@@ -1,4 +1,4 @@
-package com.frankie.app
+package com.frankie.app.basics
 
 class DataTypes {
   // -128 to 127, 8 bit

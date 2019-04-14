@@ -37,7 +37,7 @@ class MiniBank {
               pw = requestPw()
               // check if password correct after update
               if (password(user) == pw) {
-                bankInteration (user)
+                bankInteration(user)
                 break()
               }
             }

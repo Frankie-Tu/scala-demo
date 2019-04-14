@@ -1,4 +1,4 @@
-package com.frankie.app
+package com.frankie.app.basics
 
 object HelloWorld{
   // Similar to public static void main in Java
