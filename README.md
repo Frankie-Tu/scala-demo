@@ -15,10 +15,10 @@ Collections, Traits, Regex, Exception Handling, File I/O
 - [ ] **Abstraction**
 
 ### Others:
-- [x] **Data Types**, **basics/DataTypes** example
-- [x] **Modifiers**, **ClassModifiers** example
-- [x] **Control Flow**, **MiniBank** example
-- [x] **Collections**, **MiniBank** example
+- [x] **Data Types**, *basics/DataTypes* example
+- [x] **Modifiers**, *ClassModifiers* example
+- [x] **Control Flow**, *MiniBank* example
+- [x] **Collections**, *MiniBank* example
 - [ ] **Traits**
 - [ ] **Regex**
 - [ ] **Exception Handling**
