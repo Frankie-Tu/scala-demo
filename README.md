@@ -4,7 +4,7 @@
 ```
 To demonstrate understanding of Scala programming language
 such OOP concepts, Data Types, Modifiers, Control Flow,
-Collections, Traits, Regex, Exception Handling, File I/O
+Collections, Traits
 ```
 
 ## Progress
@@ -19,7 +19,4 @@ Collections, Traits, Regex, Exception Handling, File I/O
 - [x] **Modifiers**, *ClassModifiers* example
 - [x] **Control Flow**, *MiniBank* example
 - [x] **Collections**, *MiniBank* example
-- [ ] **Traits**
-- [ ] **Regex**
-- [ ] **Exception Handling**
-- [ ] **File I/O**
+- [x] **Traits**
