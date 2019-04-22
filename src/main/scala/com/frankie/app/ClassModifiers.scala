@@ -12,7 +12,7 @@ class Company {
       private[this] var confidential = "confidential information"
       // Access scope to any class within class InnerClass
       private[InnerClass] var secret = "secret information"
-      // Access scope to any class within class ClassModifiers
+      // Access scope to any class within class Company
       private[Company] var internal = "Internal information"
 
       def getConfidential: String = {
@@ -32,6 +32,7 @@ class Company {
       getInnerMost.secret
     }
   }
+  
   def getInnerClass: InnerClass = {
     new InnerClass()
   }
